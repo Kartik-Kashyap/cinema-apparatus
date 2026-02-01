@@ -1,7 +1,7 @@
 remote_theme: jekyll/minima
 
 minima:
-  skin: auto          # or "dark" for always dark, or "classic" for light
+  skin: dark
 
 plugins:
   - jekyll-remote-theme
