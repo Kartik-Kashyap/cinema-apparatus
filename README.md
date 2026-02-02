@@ -4,17 +4,24 @@ What drew me to Rithin Joseph’s work wasn’t just his academic rigor in behav
 
 His films don’t feel like side projects or portfolio fillers—they feel like acts of necessity. The kind of cinema made not for algorithms, not for festivals, not for money, but because the story *had to exist*.
 
-That integrity—being a criminologist who studies deception, memory, and human behaviour, and simultaneously a filmmaker who interrogates the same themes emotionally—is something I deeply admire and consciously aspire to, which brings me to analyse my favorite film of his—AMY.
+That integrity—being a criminologist who studies deception, memory, and human behaviour, while simultaneously making films that interrogate the same ideas emotionally—is something I deeply admire and consciously aspire to. That is what led me to analyse my favourite film of his: **AMY (2015)**.
 
-If you wanna check out more of my analysis work before (or after) proceeding, below are the links for works I did for a famous Indian film and music breakdown channel ***"[In Other Words](https://www.youtube.com/@Inotherwordsyt)"*** :
+If you’d like to see some of my earlier film-analysis work (before or after reading this), here are a few pieces I researched for the Indian film & music breakdown channel **[In Other Words](https://www.youtube.com/@Inotherwordsyt)**:
 
-- My research document: [Rang De Basanti — Complete BGM & Soundtrack Analysis](https://docs.google.com/document/d/1Syk1a-8gzShUDDz8BEkDaI7bpQLVpXTJ8-26EomOElY/edit?usp=sharing)
-  -  Resulted in this video on his channel:
-[A.R. Rahman’s GENIUS You MISSED in Rang De Basanti](https://youtu.be/iD_LIDKyyfQ?si=x_HN_Z__vV6OX3j2)
-- My analysis: [BADLAPUR OPENING SCENE ANALYSIS](https://docs.google.com/document/d/1pRNzr7agkg4LeQGv0fxeM1-s8rff4SdIgwPf1FYY_S8/edit?usp=sharing) 
-  - Featured in this short on his channel [Breakdown of Badlapur’s Iconic Opening](https://youtube.com/shorts/SujYjfQiWbY?si=N3LCJrgRrFfEItD8)
+- **Research document:**  
+  [Rang De Basanti — Complete BGM & Soundtrack Analysis](https://docs.google.com/document/d/1Syk1a-8gzShUDDz8BEkDaI7bpQLVpXTJ8-26EomOElY/edit?usp=sharing)  
+  → Resulted in this video:  
+  [A.R. Rahman’s GENIUS You MISSED in Rang De Basanti](https://youtu.be/iD_LIDKyyfQ)
 
-> Also, I am currently building a platform called "Cinema Apparatus" for creating a Zettelkasten style knowledge-base of films, screenplays, their analysis, stories, interviews, visual essays, etc. with backlinks, graph view, .md and .fountain support. It's still in development phase and is buggy, but you can check out its deployment here: [https://cinema-apparatus.netlify.app/](https://cinema-apparatus.netlify.app/)
+- **Scene analysis:**  
+  [Badlapur — Opening Scene Analysis](https://docs.google.com/document/d/1pRNzr7agkg4LeQGv0fxeM1-s8rff4SdIgwPf1FYY_S8/edit?usp=sharing)  
+  → Featured here:  
+  [Breakdown of Badlapur’s Iconic Opening](https://youtube.com/shorts/SujYjfQiWbY)
+
+> I’m also currently building a platform called **Cinema Apparatus** — a Zettelkasten-style knowledge base for films, screenplays, interviews, visual essays, and analysis, with backlinks, graph view, and support for `.md` and `.fountain` files.  
+> It’s still in development (and slightly buggy), but the live version is here:  
+> **https://cinema-apparatus.netlify.app/**
+
 
 
 ---
