@@ -8,15 +8,11 @@ That integrity—being a criminologist who studies deception, memory, and human 
 
 If you’d like to see some of my earlier film-analysis work (before or after reading this), here are a few pieces I researched for the Indian film & music breakdown channel **[In Other Words](https://www.youtube.com/@Inotherwordsyt)**:
 
-- **Research document:**  
-  [Rang De Basanti — Complete BGM & Soundtrack Analysis](https://docs.google.com/document/d/1Syk1a-8gzShUDDz8BEkDaI7bpQLVpXTJ8-26EomOElY/edit?usp=sharing)  
-  → Resulted in this video:  
-  [A.R. Rahman’s GENIUS You MISSED in Rang De Basanti](https://youtu.be/iD_LIDKyyfQ)
+- **Research document:** [Rang De Basanti — Complete BGM & Soundtrack Analysis](https://docs.google.com/document/d/1Syk1a-8gzShUDDz8BEkDaI7bpQLVpXTJ8-26EomOElY/edit?usp=sharing)  
+    → Resulted in this video: [A.R. Rahman’s GENIUS You MISSED in Rang De Basanti](https://youtu.be/iD_LIDKyyfQ)
 
-- **Scene analysis:**  
-  [Badlapur — Opening Scene Analysis](https://docs.google.com/document/d/1pRNzr7agkg4LeQGv0fxeM1-s8rff4SdIgwPf1FYY_S8/edit?usp=sharing)  
-  → Featured here:  
-  [Breakdown of Badlapur’s Iconic Opening](https://youtube.com/shorts/SujYjfQiWbY)
+- **Scene analysis:** [Badlapur — Opening Scene Analysis](https://docs.google.com/document/d/1pRNzr7agkg4LeQGv0fxeM1-s8rff4SdIgwPf1FYY_S8/edit?usp=sharing)  
+    → Featured here: [Breakdown of Badlapur’s Iconic Opening](https://youtube.com/shorts/SujYjfQiWbY)
 
 > I’m also currently building a platform called **Cinema Apparatus** — a Zettelkasten-style knowledge base for films, screenplays, interviews, visual essays, and analysis, with backlinks, graph view, and support for `.md` and `.fountain` files.  
 > It’s still in development (and slightly buggy), but the live version is here:  
