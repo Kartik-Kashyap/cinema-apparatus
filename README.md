@@ -16,7 +16,7 @@ If you’d like to see some of my earlier film-analysis work (before or after re
 
 > I’m also currently building a platform called **Cinema Apparatus** — a Zettelkasten-style knowledge base for films, screenplays, interviews, visual essays, and analysis, with backlinks, graph view, and support for `.md` and `.fountain` files.  
 > It’s still in development (and slightly buggy), but the live version is here:  
-> **https://cinema-apparatus.netlify.app/**
+> **[https://cinema-apparatus.netlify.app/](https://cinema-apparatus.netlify.app/)**
 
 
 
